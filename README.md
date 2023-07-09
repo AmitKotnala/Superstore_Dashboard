@@ -77,7 +77,8 @@ Region      | Region associated with the person
 
 - **Calculated Measures**: Using the DAX formula language, calculated measures are created to derive additional insights from the data. Examples of computed measures include sales growth and the sum of sales.
 
-<p align="left"> <img src="https://drive.google.com/uc?export=download&id=1WcqPiX9FT8v-0v0nL6rf9-0Tq5ziRJTx" alt="Dashboard" /> </p>
+![image](https://github.com/AmitKotnala/Superstore_Dashboard/assets/118646525/17038aed-ea1d-48f9-ba74-fad5ddfca0fe)
+
 
 ## Results
 
